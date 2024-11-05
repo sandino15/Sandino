@@ -53,6 +53,15 @@ gosto muito de games e fazer atividades físicas como correr e musculação.
 
 <img 
     align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/javat-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="React"
     title="React" 
     width="30px" 
